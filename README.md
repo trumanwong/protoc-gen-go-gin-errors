@@ -5,7 +5,7 @@ protoc-gen-go-gin-errors is a protoc plugin that generates errors for gin.
 ## Install
 
 ```shell
-$ go install github.com/trumanwong/protoc-gen-go-gin@latest
+$ go install github.com/trumanwong/protoc-gen-go-gin-errors@latest
 ```
 
 ## Usage
