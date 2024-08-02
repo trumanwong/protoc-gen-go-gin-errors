@@ -1,6 +1,6 @@
-# protoc-gen-go-gin
+# protoc-gen-go-gin-errors
 
-protoc-gen-go-gin is a protoc plugin that generates use gin http server code from a proto file.
+protoc-gen-go-gin-errors is a protoc plugin that generates errors for gin.
 
 ## Install
 
