@@ -54,7 +54,7 @@ output:
 package v1
 
 import (
-	_ "github.com/trumanwong/gin-transport/transport/errors"
+	_ "github.com/trumanwong/gin-transport/v2/transport/errors"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

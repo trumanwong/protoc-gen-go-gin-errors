@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	errorsPackage = protogen.GoImportPath("github.com/trumanwong/gin-transport/transport/errors")
+	errorsPackage = protogen.GoImportPath("github.com/trumanwong/gin-transport/v2/transport/errors")
 	fmtPackage    = protogen.GoImportPath("fmt")
 )
 
